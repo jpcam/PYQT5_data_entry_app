@@ -1,6 +1,6 @@
 Simple app for Data entry For Mining Company Resources. 
 A list of 'available' companies with website links is provided.
-Also utilizes 'periodic table' for mineral selection and global countires slider for mine localtion selection.
+Also utilizes 'periodic table' for mineral selection and global countries slider for mine location selection using pycountry library.
 Exports saved data to spreadsheet. Saves the data locally where ever the app resides. 
 
 Option to open the target company website so you can search for their original data source. 
