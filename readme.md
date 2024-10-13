@@ -20,5 +20,5 @@ Note: If you run this in Jupyter notebook you might get a kernel crash when you 
       This does not accur in VSCode.
 
 GUI: 
+<img width="897" alt="PYQT Data entry app screenshot 2022-03-24 at 21 25 07" src="https://github.com/user-attachments/assets/f8543e45-020a-4efa-9b39-3de6a5e1301b">
 
-<img width="897" alt="PYQT Data entry app screenshot 2022-03-24 at 21 25 07" src="https://github.com/user-attachments/assets/a5eecd61-58d8-469d-b070-74c7adea21ec">
